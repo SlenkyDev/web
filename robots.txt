@@ -1,0 +1,3 @@
+Sitemap: https://slenky.net/sitemap.xml
+User-Agent: *
+Allow: /
